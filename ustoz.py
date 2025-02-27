@@ -7,7 +7,7 @@ from aiogram.filters import Command
 import requests
 import re
 
-bot = Bot(token="")
+bot = Bot(token="7876493127:AAHAqtjReSOwWBOWvE2_1XBbxEeLqQsQKVg")
 dp = Dispatcher()
 
 chat_id = ""
